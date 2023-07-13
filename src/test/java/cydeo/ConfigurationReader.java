@@ -6,6 +6,10 @@ import java.util.Properties;
 public class ConfigurationReader {
 	private static Properties configFile;
 
+
+
+//sfdsfsdf
+
 	static {
 
 		try {
